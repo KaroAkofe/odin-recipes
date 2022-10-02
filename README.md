@@ -1,2 +1,2 @@
 # odin-recipes
-Introduction to HTML lists, images, and links.
+Introduction to HTML lists, images, links, paragraphs, and file paths.
